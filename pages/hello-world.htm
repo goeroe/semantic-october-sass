@@ -1,0 +1,28 @@
+title = "Hello world"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+{% put styles %}
+<style>
+    *, html {
+        background-color: #34495e;
+        font-size: 16px;
+    }
+    div.grid {
+        height: 100vh;
+    }
+    h1.ui.inverted.header {
+        font-size: 4em;
+    }
+    h2 {
+</style>
+{% endput %}
+<div class="ui middle aligned centered grid">
+    <div class="row">
+        <div class="column">
+            <h1 class="ui inverted header">Semantic October (Sass)</h1>
+            <h2 class="ui grey inverted header">based on semantic-ui-sass by doabit</h2>
+        </div>
+    </div>
+</div>
