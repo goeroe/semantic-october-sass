@@ -1,1 +1,1 @@
-"# Semantic-October (Sass)" 
+# Semantic-October (Sass)
