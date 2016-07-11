@@ -1,0 +1,29 @@
+{
+  "name": "semantic-october-sass",
+  "version": "0.0.1",
+  "description": "Semantic-ui (Sass) theme for OctoberCMS",
+  "license": "MIT",
+  "authors": [
+    "Jonas Van Remoortere"
+  ],
+  "dependencies": {
+    "jquery": "3.1.0",
+    "semantic-ui-sass": "latest"
+  },
+  "homepage": "https://github.com/goeroe/semantic-october-sass",
+  "main": "",
+  "keywords": [
+    "semantic-ui",
+    "OctoberCMS",
+    "framework",
+    "theme"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ]
+}
